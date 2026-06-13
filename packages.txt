@@ -1,4 +1,2 @@
 ffmpeg
-libpulse-dev
-swig
-libpocketsphinx-dev
+
