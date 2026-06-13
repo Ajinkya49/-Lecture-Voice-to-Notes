@@ -1,6 +1,5 @@
 streamlit==1.32.0
 SpeechRecognition==3.10.1
-pocketsphinx==5.0.3
 scikit-learn==1.4.1
 nltk==3.8.1
 matplotlib==3.8.3
